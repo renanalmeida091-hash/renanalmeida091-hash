@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B3340,100:7C9CB8&text=Renan%20Santos%20de%20Almeida&fontColor=E6EBF0&fontSize=38&fontAlignY=38&desc=Analista%20de%20Dados&descSize=20&descAlignY=58&animation=fadeIn" alt="Banner Renan Santos de Almeida" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C9CB8&center=true&vCenter=true&width=620&lines=Transformando+dados+em+decis%C3%B5es;Dashboards+em+Power+BI;Automa%C3%A7%C3%A3o+com+Python+e+Power+Automate;Apps+com+Power+Apps+e+SharePoint" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C9CB8&center=true&vCenter=true&width=620&lines=Transformando+dados+em+decis%C3%B5es;Dashboards+em+Power+BI;Automa%C3%A7%C3%A3o+com+Python+e+Power+Automate;Monitoramento+de+dados+com+agentes+de+IA" alt="Typing animation" />
 </a>
 
 <br/>
@@ -21,9 +21,9 @@
 
 Sou **Renan Santos de Almeida**, analista de dados.
 
-Meu trabalho é pegar planilhas e processos manuais e transformar em visualizações claras, interativas e automatizadas, que ajudem a apoiar a tomada de decisão.
+Meu trabalho é transformar planilhas, PDFs e processos manuais em dashboards claros, interativos e automatizados, que ajudam a apoiar a tomada de decisão.
 
-Trabalho principalmente com gestão financeira, dashboards, automação de fluxos e organização de informações vindas de diferentes áreas.
+Trabalho com Power BI, Python e automação de fluxos, e uso agentes de IA para monitorar pastas e arquivos e avisar quando algo dá errado.
 
 ---
 
@@ -34,10 +34,13 @@ Trabalho principalmente com gestão financeira, dashboards, automação de fluxo
 <img src="https://img.shields.io/badge/SQL-343E4D?style=for-the-badge&logo=postgresql&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/Python-343E4D?style=for-the-badge&logo=python&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/Power%20BI-343E4D?style=for-the-badge&logo=powerbi&logoColor=7C9CB8" />
+<img src="https://img.shields.io/badge/Power%20Query-343E4D?style=for-the-badge&logo=powerbi&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/Excel-343E4D?style=for-the-badge&logo=microsoftexcel&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/Power%20Apps-343E4D?style=for-the-badge&logo=powerapps&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/Power%20Automate-343E4D?style=for-the-badge&logo=powerautomate&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/SharePoint-343E4D?style=for-the-badge&logo=microsoftsharepoint&logoColor=7C9CB8" />
+<img src="https://img.shields.io/badge/KNIME-343E4D?style=for-the-badge&logo=knime&logoColor=7C9CB8" />
+<img src="https://img.shields.io/badge/SAP-343E4D?style=for-the-badge&logo=sap&logoColor=7C9CB8" />
 <img src="https://img.shields.io/badge/GitHub-343E4D?style=for-the-badge&logo=github&logoColor=7C9CB8" />
 
 </div>
@@ -48,6 +51,38 @@ Trabalho principalmente com gestão financeira, dashboards, automação de fluxo
 
 <table>
   <tr>
+    <td width="33%" valign="top">
+      <h3>Dashboard Giagro</h3>
+      <p>Dashboard em Power BI sobre registros concedidos no Giagro. Os PDFs baixados do site são detectados pelo Python, que extrai e trata as colunas necessárias. Um agente de IA monitora as pastas e valida os arquivos antes da atualização do Power BI.</p>
+      <img src="https://img.shields.io/badge/Python-343E4D?style=flat-square&logo=python&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/Power%20BI-343E4D?style=flat-square&logo=powerbi&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/Excel-343E4D?style=flat-square&logo=microsoftexcel&logoColor=7C9CB8" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Power BI de Mercado</h3>
+      <p>Painel sobre o mercado do agronegócio, acompanhando culturas e empresas. Desenvolvido com Power Query e Power BI, com envio automático de e-mails via Power Automate ao fim de cada atualização e monitoramento por agente de IA que avisa em caso de erro.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-343E4D?style=flat-square&logo=powerbi&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/Power%20Query-343E4D?style=flat-square&logo=powerbi&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/Power%20Automate-343E4D?style=flat-square&logo=powerautomate&logoColor=7C9CB8" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>Power BI de Estoque</h3>
+      <p>Painel que acompanha o giro e a situação do estoque. O Power Automate monitora as pastas e avisa com antecedência caso ocorra algum erro no Power BI.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-343E4D?style=flat-square&logo=powerbi&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/Power%20Automate-343E4D?style=flat-square&logo=powerautomate&logoColor=7C9CB8" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Supply Finance</h3>
+      <p>Power BI que identifica os melhores e piores fornecedores e acompanha estoque, contas a pagar e o resultado final de caixa, mostrando para onde o negócio está indo.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-343E4D?style=flat-square&logo=powerbi&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/KNIME-343E4D?style=flat-square&logo=knime&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/SQL-343E4D?style=flat-square&logo=postgresql&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/SAP-343E4D?style=flat-square&logo=sap&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/Excel-343E4D?style=flat-square&logo=microsoftexcel&logoColor=7C9CB8" />
+      <img src="https://img.shields.io/badge/SharePoint-343E4D?style=flat-square&logo=microsoftsharepoint&logoColor=7C9CB8" />
+    </td>
     <td width="33%" valign="top">
       <h3>Gestão Financeira em Power BI</h3>
       <p>Dashboard simulando a gestão financeira de uma empresa, com base no histórico de 2019 a 2022. O objetivo foi transformar planilhas em uma visualização clara e interativa para apoiar a tomada de decisão.</p>
@@ -67,6 +102,8 @@ Trabalho principalmente com gestão financeira, dashboards, automação de fluxo
       <br/><br/>
       <a href="https://www.linkedin.com/in/renansantosalmeida/recent-activity/all/">Ver no LinkedIn</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>Automação de Processos com Python e Power BI</h3>
       <p>Processos manuais transformados em fluxos automáticos. Um agente de IA monitora a pasta de entrada, extrai, trata, valida e consolida os dados com Python, e atualiza os dashboards no Power BI sem intervenção manual. Resultado: menos tarefas manuais, mais agilidade e mais confiabilidade nos dados.</p>
@@ -76,6 +113,8 @@ Trabalho principalmente com gestão financeira, dashboards, automação de fluxo
       <br/><br/>
       <a href="https://www.linkedin.com/in/renansantosalmeida/recent-activity/all/">Ver no LinkedIn</a>
     </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
